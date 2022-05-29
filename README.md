@@ -15,7 +15,7 @@ Hence there is a JWT Token used within this app that hashes passwords so that th
 
 This is a `Walk Through` video
 
-![GIF] ()
+![GIF](web/public/walk-video.gif)
 
 ## Tabel of Contents
 
@@ -83,9 +83,9 @@ To run tests, please use the following command:
 
 ## Screenshots of deployed app
 
-![image_one]()
+![image_one](web/public/homepage.png)
 
-![image_two]()
+![image_two](web/public/register.png)
 
 
 ## Technology
@@ -104,13 +104,13 @@ To run tests, please use the following command:
 
 These are the screenshots of the code 
 
-CHOICES NODE.JS
+typeDefs.js
 
-![Code-Snippet]()
+![Code-Snippet](web/public/typeDefs.png)
 
-SWITCH CASES FOR NODE.JS
+createPost
 
-![Code-Snippet]()
+![Code-Snippet](web/public/createPost.png)
 
 UPDATE 
 
