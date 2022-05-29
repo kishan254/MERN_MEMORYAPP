@@ -1,0 +1,25 @@
+{
+	"name": "commentme-server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"apollo-client": "^2.6.10",
+		"apollo-server": "^3.6.4",
+		"bcryptjs": "^2.4.3",
+		"dotenv": "^16.0.0",
+		"graphql": "^15.8.0",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^5.5.11"
+	},
+	"devDependencies": {
+		"nodemon": "^1.19.1"
+	}
+}
