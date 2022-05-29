@@ -50,5 +50,6 @@
 	},
 	"devDependencies": {
 		"react-error-overlay": "^6.0.9"
-	}
+	},
+	"proxy": "https://still-dusk-84804.herokuapp.com/"
 }
