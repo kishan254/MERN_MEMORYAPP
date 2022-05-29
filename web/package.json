@@ -1,7 +1,9 @@
 {
 	"name": "memory-mern",
 	"version": "0.1.0",
-	"private": true,
+	"engines": {
+		"node": "16.13.2"
+		},
 	"dependencies": {
 		"@apollo/react-hooks": "4.0.0",
 		"@testing-library/jest-dom": "^5.16.2",
