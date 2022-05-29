@@ -32,20 +32,24 @@ This is a `Walk Through` video
 
 In order to run this application, you will need to do the following:
 
-`INTIAL STEP MONGO` -> Using the .env.EXAMPLE you can create your own mongo URI from atlas and create your own secret and .env file
+`INTIAL STEP MONGO` -> Using the .env.EXAMPLE (cd server) you can create your own mongo URI from atlas and create your own secret and add these to the .env file
 
 ## Install and Testing
 
-`FIRST` -> cd into the server folder
+`FIRST` -> 
 
 - npm install
-- npm start
 
-`SECOND` -> cd .. & cd into the web folder
+`SECOND` ->
 
-- npm install
-- npm start
+- npm run dev
 
+
+** (Image below)
+
+![image](web/public/runDev.png)
+
+** 
 
 ## Usage
 
@@ -112,17 +116,21 @@ createPost
 
 ![Code-Snippet](web/public/createPost.png)
 
-UPDATE 
+comment.js mutations
 
-![Code-Snippet]()
+![Code-Snippet](web/public/comment.png)
 
-REMOVE AND DELETE FUNCTIONS
+users.js mutations 
 
-![Code-Snippet]()
+![Code-Snippet](web/public/users.png)
 
-COMPELETED (END) FUNCTIONS
+Apollo and check-auth.js 
 
-![Code-Snippet]()
+![Code-Snippet](web/public/checkAuth.png)
+
+Apollo uses integrated express and this is the proof
+
+![Code-Snippet](web/public/expressProof.png)
 
 ## Developers and Questions
 
