@@ -26,6 +26,7 @@ This is a `Walk Through` video
 * [Screenshots](#screenshots)
 * [Technology](#technology)
 * [Making](#making)
+* [Github-Heroku](#Heroku)
 * [Questions](#questions)
 
 # Installation
@@ -132,11 +133,12 @@ Apollo uses integrated express and this is the proof
 
 ![Code-Snippet](web/public/expressProof.png)
 
-## Developers and Questions
+## Heroku Hosting Github Links
 
-`GITHUB Links used for heroku deployment`
 [Server] (https://github.com/chentriangoes/memorytrust-server)
 [Client] (https://github.com/chentriangoes/memorytrust-web)
+
+## Developers and Questions
 
 
 Please click the links below to visit our github pages
