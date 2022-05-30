@@ -52,6 +52,7 @@ function MenuBar() {
 					onClick={handleItemClick}
 					as={Link}
 					to='/register'
+					style={{ color: "red" }}
 				/>
 			</Menu.Menu>
 		</Menu>

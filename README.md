@@ -42,7 +42,7 @@ In order to run this application, you will need to do the following:
 
 `SECOND` ->
 
-- npm run dev
+- npm start
 
 
 ** (Image below)
@@ -89,7 +89,7 @@ To run tests, please use the following command:
 
 ![image_one](web/public/homepage.png)
 
-![image_two](web/public/register.png)
+![image_two](web/public/profile.png)
 
 
 ## Technology

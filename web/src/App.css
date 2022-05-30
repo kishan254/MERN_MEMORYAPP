@@ -1,3 +1,12 @@
+#root {
+	background-color: #e8d3af;
+}
+
+.ui.teal.massive.pointing.secondary.menu {
+	padding: 20px;
+
+}
+
 .page-title {
 	display: block !important;
 	text-align: center;
@@ -14,3 +23,5 @@
 .ui.teal.buttons .button:focus {
 	background-color: #00b5ad;
 }
+
+
