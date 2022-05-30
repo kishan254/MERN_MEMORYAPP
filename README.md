@@ -29,6 +29,12 @@ This is a `Walk Through` video
 * [Github-Heroku](#Heroku)
 * [Questions](#questions)
 
+
+
+MAIN REPO GITHUB LINK -> (https://github.com/kishan254/MERN_MEMORYAPP)
+
+
+
 # Installation
 
 In order to run this application, you will need to do the following:
@@ -109,27 +115,35 @@ To run tests, please use the following command:
 
 These are the screenshots of the code 
 
-typeDefs.js
+- typeDefs.js
 
 ![Code-Snippet](web/public/typeDefs.png)
 
-createPost
+- createPost
 
 ![Code-Snippet](web/public/createPost.png)
 
-comment.js mutations
+- Like Button
+
+![Code-Snippet](web/public/likeButton.png)
+
+- Delete Button
+
+![Code-Snippet](web/public/deleteButton.png)
+
+- comment.js mutations
 
 ![Code-Snippet](web/public/comment.png)
 
-users.js mutations 
+- users.js mutations 
 
 ![Code-Snippet](web/public/users.png)
 
-Apollo and check-auth.js 
+- Apollo and check-auth.js 
 
 ![Code-Snippet](web/public/checkAuth.png)
 
-Apollo uses integrated express and this is the proof
+- Apollo uses integrated express and this is the proof
 
 ![Code-Snippet](web/public/expressProof.png)
 
