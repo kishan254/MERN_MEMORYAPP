@@ -135,8 +135,8 @@ Apollo uses integrated express and this is the proof
 
 ## Heroku Hosting Github Links
 
-[Server] (https://github.com/chentriangoes/memorytrust-server)
-[Client] (https://github.com/chentriangoes/memorytrust-web)
+- [Server] (https://github.com/chentriangoes/memorytrust-server)
+- [Client] (https://github.com/chentriangoes/memorytrust-web)
 
 ## Developers and Questions
 
