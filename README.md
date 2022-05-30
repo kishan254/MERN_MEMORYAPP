@@ -33,7 +33,7 @@ This is a `Walk Through` video
 
 In order to run this application, you will need to do the following:
 
-`INTIAL STEP MONGO` -> Using the .env.EXAMPLE (cd server) you can create your own mongo URI from atlas and create your own secret and add these to the .env file
+`INITAL STEP IS MONGO` -> Using the .env.EXAMPLE (cd server) you can create your own mongo URI from atlas and create your own secret and add these to the .env file
 
 ## Install and Testing
 
@@ -46,7 +46,7 @@ In order to run this application, you will need to do the following:
 - npm start
 
 
-** (Image below)
+** (Image npm start)
 
 ![image](web/public/runDev.png)
 
