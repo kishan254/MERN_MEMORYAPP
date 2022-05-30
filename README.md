@@ -139,6 +139,10 @@ These are the screenshots of the code
 
 ![Code-Snippet](web/public/users.png)
 
+- delete mutations 
+
+![Code-Snippet](web/public/deleteMutation.png)
+
 - Apollo and check-auth.js 
 
 ![Code-Snippet](web/public/checkAuth.png)
