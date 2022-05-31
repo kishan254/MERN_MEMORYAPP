@@ -30,8 +30,11 @@ This is a `Walk Through` video
 * [Questions](#questions)
 
 
-
+MAIN LINK FOR HEROKU DEPLOYMENT-> (https://memoryapp-web.herokuapp.com/)
 MAIN REPO GITHUB LINK -> (https://github.com/kishan254/MERN_MEMORYAPP)
+
+BACKUP_01 LINK FOR HEROKU DEPLOYMENT-> (https://vast-lowlands-82773.herokuapp.com/)
+BACKUP_02 LINK FOR HEROKU DEPLOYMENT-> (https://fathomless-hollows-57757.herokuapp.com/)
 
 
 
